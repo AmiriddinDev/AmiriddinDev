@@ -9,4 +9,3 @@ Here are some ideas to get you started: <br>
 💬 Ask me about ... <br>
 📫 How to reach me: amiriddinxolmatov@gmail.com <br>
 ⚡ Fun fact: <br>
-trophy
