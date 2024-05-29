@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started: <br>
 
-👋 Hi, I’m Amiriddin Kholmatov Akhmadovich
+👋 Hi, I’m Amiriddin Kholmatov Akhmadovich <br>
 🔭 I’m currently working on ... <br>
 🌱 I’m currently learning <br>
 👯 I’m looking to collaborate on ... <br>
