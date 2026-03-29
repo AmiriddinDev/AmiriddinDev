@@ -1,12 +1,70 @@
-## Welcome to my profile :)
-**AmiriddinDev/AmiriddinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <br>
+# 👋 Hi, I'm Amiriddin
 
-Here are some ideas to get you started: <br>
+💻 Backend Developer | PHP (Yii2, Laravel) | Python (Django)  
+🚀 Building scalable CRM, ERP & automation systems  
 
-👋 Hi, I’m Amiriddin Kholmatov Akhmadovich <br>
-🔭 I’m currently working on ... <br>
-🌱 I’m currently learning <br>
-👯 I’m looking to collaborate on ... <br>
-💬 Ask me about ... <br>
-📫 How to reach me ? For this: +998904640216 phone number or telegram: @amir_ibn_ahmad <br>
-⚡ Fun fact: <br>
+---
+
+## 🧠 About Me
+
+I’m a Backend Developer specializing in building reliable and scalable web applications using **PHP (Yii2, Laravel)** and **Python (Django)**.  
+
+I focus on developing business-oriented systems, especially **CRM/ERP solutions** and **1C:Enterprise integrations**, helping companies automate workflows and improve efficiency.  
+
+I enjoy solving real-world problems and building systems that make a measurable impact.  
+
+---
+
+## ⚙️ Tech Stack
+
+- 💻 Languages: PHP, Python  
+- 🧩 Frameworks: Yii2, Laravel, Django  
+- 🗄️ Databases: MySQL, PostgreSQL  
+- 🔗 Backend: REST API, System Integration  
+- ⚒ Tools: Git, Docker (basic), Linux  
+
+---
+
+## 📊 What I Build
+
+- CRM & ERP Systems  
+- Warehouse Management Systems  
+- Education Management Platforms  
+- API Integrations (including 1C)  
+- Automation Tools  
+
+---
+
+## 🚀 Current Focus
+
+- Expanding my expertise in **Python & Django**  
+- Building scalable backend architectures  
+- Improving performance & optimization  
+
+---
+
+## 📌 Featured Projects
+
+🔹 CRM System (PHP, Yii2)  
+- Full-featured business automation system  
+- User roles, reporting, workflow automation  
+
+🔹 Warehouse Management System  
+- Inventory tracking & reporting  
+- Integration with external systems  
+
+🔹 Education Platform  
+- Student management & analytics  
+- Role-based system  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your_email@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌍 Location: Uzbekistan  
+
+---
+
+⭐ Always open to collaboration and new opportunities!
