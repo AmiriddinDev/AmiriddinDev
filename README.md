@@ -61,8 +61,8 @@ I enjoy solving real-world problems and building systems that make a measurable 
 
 ## 📫 Contact Me
 
-- 📧 Email: your_email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: amiriddinxolmatov@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/amiriddin-xolmatov
 - 🌍 Location: Uzbekistan  
 
 ---
